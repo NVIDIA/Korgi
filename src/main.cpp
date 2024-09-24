@@ -40,6 +40,7 @@
 #include <unordered_map>
 #include <algorithm>
 #include <signal.h>
+#include <string>
 
 #ifdef _WIN32
 #pragma comment(lib, "winmm")
